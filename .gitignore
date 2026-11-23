@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LankaWeather-AI explicit project ignores
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
